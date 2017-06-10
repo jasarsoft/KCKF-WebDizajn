@@ -1,0 +1,32 @@
+﻿#main{
+    height: 200px;
+    width: 50%;
+    background-color: rgb(237 , 177, 12);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#left  {
+    float: left;
+    height: 100%;
+    width: 50%;
+    border-radius: 10px;
+}
+#right  {
+    float: right;
+    height: 85%;
+    width: 50%;
+    border-radius: 10px;
+    font-size: 15px;
+    padding-top: 30px;
+    
+}
+span{
+    margin-left: 20px;
+    line-height: 30px;
+}
+img{
+    height: 90%;
+    width: 80%;
+    margin-left: 20px;
+    margin-top: 10px;
+}

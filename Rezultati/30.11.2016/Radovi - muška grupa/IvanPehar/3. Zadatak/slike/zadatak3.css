@@ -1,0 +1,21 @@
+.glavni{
+    height: 200px;
+    width: 420px;
+    background-color: rgb(237,177,12);
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 15px;
+    
+}
+img{
+    height:190px;
+    width: 190px; 
+}
+.slika{
+    float: left;
+}
+.opis{
+    text-align: left;
+    margin-top: 20px;
+    float: left;
+}

@@ -1,0 +1,23 @@
+.glavni{
+    height: 80px;
+    width: 240px;
+    background-color: #55aaff;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+#download{
+    
+    float: left;
+}
+span{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    color: white;
+}
+img{
+    height: 68px;
+    width: 68px;
+    margin-top: 5px;
+}

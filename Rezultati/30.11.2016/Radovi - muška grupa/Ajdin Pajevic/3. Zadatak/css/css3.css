@@ -1,0 +1,28 @@
+﻿#glavni{
+	height:260px;
+	width:550px;
+	margin:0 auto;
+	background-color:rgb(237,177,12);
+	border-radius:10px;
+	border:3px solid black;
+}
+#lijevi{
+	float:left;
+	/*height:300px;
+	width:50%px;*/
+}
+#desni{
+	float:right;
+}
+
+img{
+	/*height:300px;
+	width:49%;*/
+}
+label{
+	font:21px Times new roman;
+	padding-top:30px;
+	padding-right:50px;
+	float:left;
+	
+}

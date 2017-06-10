@@ -1,0 +1,12 @@
+﻿button{
+	background-color: #55AAFF;
+	border-radius: 7px;
+	border: 2px solid black;
+	width: 210px;
+	height: 80px;
+	color: white;
+	font-size: 20px;
+}
+img{
+	vertical-align: middle;
+}

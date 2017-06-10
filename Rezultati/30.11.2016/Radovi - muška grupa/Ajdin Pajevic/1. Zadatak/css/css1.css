@@ -1,0 +1,23 @@
+﻿#glavni{
+	height:100px;
+	width:320px;
+	background-color:#55AAFF;
+	border:3px solid black;
+	border-radius:10px;
+	margin:20px auto;
+}
+span{
+	
+	float:left;
+	font:30px Arial;
+	color:white;
+	font-weight:bold;
+	margin-top:30px;
+	margin-left:5px;
+}
+
+img{
+	height:96px;
+	width:96px;
+	float:right;
+}

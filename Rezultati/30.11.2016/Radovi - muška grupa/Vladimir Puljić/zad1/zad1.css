@@ -1,0 +1,23 @@
+.srednji{
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: #55aaff;
+    color: white;
+    width: 40%;
+    height: 80px;
+    font-size: 30px;
+    
+}
+span{
+    float: left;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+img{
+    float: right;
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+
+
+}

@@ -1,0 +1,37 @@
+﻿#wrapper {
+    width: 410px;
+    height: 500px;
+
+}
+.left {
+    width: 200px;;
+    height: 200px;
+    background-color: #00adef;
+    float: left;
+    padding: auto;
+}
+.z2 {
+    margin: 30px 0 0 30px;
+    display: block;
+}
+.right {
+    width: 200px;;
+    height: 200px;
+    background-color: #00adef;
+    float: right;
+}
+footer {
+    margin-top: 10px;
+    height: 200px;
+    width: 410px;
+    background-color: #00adef;
+    
+}
+.z3 {
+    margin-top: 35px;
+    margin-left: 145px;
+    
+}
+.clearfix {
+    clear: both;
+}

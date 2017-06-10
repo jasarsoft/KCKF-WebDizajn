@@ -1,0 +1,11 @@
+﻿img{
+    float: left;
+}
+
+div{
+    background-color: rgb(237, 177, 12);
+    height: 280px;
+    width: 600px;
+    border: 3px solid black;
+    border-radius: 8px;
+}

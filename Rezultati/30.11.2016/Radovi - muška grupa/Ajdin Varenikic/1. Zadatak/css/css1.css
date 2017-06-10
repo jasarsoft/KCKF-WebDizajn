@@ -1,0 +1,13 @@
+﻿#download{
+    height: 70px;
+    width: 190px;
+    background-color: #55aaff;
+    border-radius: 7px;
+    background-image: url("../slike/down.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    border: 1px solid black;
+}

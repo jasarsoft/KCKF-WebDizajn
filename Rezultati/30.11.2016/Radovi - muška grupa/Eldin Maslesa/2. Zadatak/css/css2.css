@@ -1,0 +1,32 @@
+﻿.poruka{
+	width: 200px;
+	height: 200px;
+	border: 4px solid white;
+	background-color: #00ADEF;
+	float: left;
+}
+.telefon{
+	width: 200px;
+	height: 200px;
+	border: 4px solid white;
+	background-color: #00ADEF;
+	float: left;
+}
+.profil{
+	width: 409px;
+	height: 200px;
+	border: 4px solid white;
+	background-color: #00ADEF;
+	clear: both;
+}
+.poruka .telefon{
+	
+}
+img{
+	display: block;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.profil1{
+	margin-left: 130px;
+}

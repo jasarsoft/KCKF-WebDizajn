@@ -1,0 +1,29 @@
+#glavni{
+    width:700px;
+    height:200px;
+   
+   
+
+}
+#dugme{
+    width:350px;
+    height:100px;
+    background-color:#55AAFF;
+    border-radius:10px;
+    border:1px solid black;
+     margin-top:20px;
+    padding-right:75px;
+
+}
+input{
+background-image:url("..//slike/down.png");
+ background-repeat:no-repeat;
+ background-position: right;
+ font-size:30px;
+ color:white;
+ font-family:Cambria;
+ background-size: 100px;
+
+ 
+
+}

@@ -1,0 +1,19 @@
+﻿input{
+    background-image: url(../slike/down.png);
+    background-repeat: no-repeat;
+    width: 290px;
+    height: 100px;
+    background-position: right;
+    background-color: #55AAFF;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 26px;
+    color: white;
+    background-size: 80px;
+    padding-right: 80px;
+    
+}
+
+
+
+

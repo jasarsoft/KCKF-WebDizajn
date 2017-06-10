@@ -1,0 +1,52 @@
+.glavni{
+    background-color: black;
+    height: 60px;
+    width: 550px;
+    color: white;
+    
+    
+}
+.prvi{
+  margin-top: 10px;
+    margin-left: 15px;
+    float: left;
+}
+#a{
+    padding-top: 10px;
+}
+
+b{
+    font-size: 20px;
+    margin-top: 20px;
+}
+#ba{
+    height: 40px;
+    width: 300px;
+    margin-bottom: 10px;
+  
+}
+input{
+    background: url(olovka.png) no-repeat ;
+   padding-left: 45px;
+     height: 40px;
+    width: 300px;
+      border: none;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 20px;
+   
+}
+#c{
+margin-left: 60px;
+    height: 35px;
+    width: 35px;
+   background-color: #9DCD00;
+   border-radius: 5px; 
+   padding-top: 10px;
+  padding-left: 10px;
+}
+img{
+   
+    height: 25px;
+    width: 25px;
+}

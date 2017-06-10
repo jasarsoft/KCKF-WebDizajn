@@ -1,0 +1,41 @@
+﻿div{
+    background-color: black;
+    width: 650px;
+    height: 100px;
+}
+
+span{
+    color: white;
+    margin-left: 30px;
+    font-size: 26px;
+}
+
+#prvi{
+    margin-left: 10px;
+    padding-bottom: 5px;
+    background-image: url(../slike/olovka.png);
+    background-position: left;
+    background-repeat: no-repeat; 
+    width: 400px;
+    height: 55px;
+    border-radius: 6px;
+    font-size: 26px;
+    text-align: center;
+    
+}
+
+#drugi{
+    background-image: url(../slike/mail.png);
+    margin-left: 15px;
+    height: 53px;
+    border-radius: 6px;
+    padding-top: 6px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 53px;
+    border: none;
+    background-color: greenyellow;
+    font-size: 0px;
+    padding-top: 10px;
+    
+}

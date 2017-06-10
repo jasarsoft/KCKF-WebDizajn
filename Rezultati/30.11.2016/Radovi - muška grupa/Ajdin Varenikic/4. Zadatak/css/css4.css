@@ -1,0 +1,42 @@
+﻿#content{
+    height: 100px;
+    width: 60%;
+    background-color: black;
+}
+#unos{
+    height: 35px;
+    float: left;
+    width: 60%;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 7px;
+
+    
+}
+#mail{
+    float: left;
+    color: white;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+#unos{
+    background-image: url("../slike/olovka.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 35px;
+    font-size: 17px;
+    padding-left: 40px;
+}
+#confirm{
+    height: 40px;
+    width: 40px;
+    background-color: greenyellow;
+    background-image: url("../slike/mail.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 7px;
+    background-size: 25px;
+    margin-left: 20px;
+    margin-top: 25px;
+}

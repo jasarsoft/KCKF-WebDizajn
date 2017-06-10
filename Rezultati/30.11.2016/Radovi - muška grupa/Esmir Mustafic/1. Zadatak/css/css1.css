@@ -1,0 +1,10 @@
+﻿button {
+    width: 190px;
+    height: 60px;
+    border-radius: 7px;
+    background: #55AAFF url(../slike/down.png) no-repeat right;
+    text-align: left;
+    color: white;
+    font: 18px  helvetica;
+    font-weight: bold;
+}

@@ -1,0 +1,37 @@
+#glavni{
+    width:700px;
+    height:500px;
+    background-color:black;
+}
+td{
+    
+    background-color:#00ADEF;
+    float:left;
+    width:250px;
+    height:150px;
+    margin-left:20px;
+}
+
+#slika1{
+    width:100px;
+    height:100px;
+    margin-left:60px;
+    margin-left:70px;
+    margin-top:25px;
+}
+#slika2{
+    width:100px;
+    height:100px;
+    margin-left:70px;
+    margin-top:25px;
+}
+#red{
+    width:525px;
+}
+#slika3{
+    width:100px;
+    height:100px;
+    margin-left:50px;
+    margin-left:200px;
+    margin-top:25px;
+}

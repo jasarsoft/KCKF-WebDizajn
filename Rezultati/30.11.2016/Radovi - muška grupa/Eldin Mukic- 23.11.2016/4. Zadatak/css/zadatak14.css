@@ -1,0 +1,43 @@
+#content{
+    width:500px;
+    height:150px;
+  
+}
+#glavni{
+    width:350px;
+    height:100px;
+    
+    float:left;
+    margin-top:30px;
+}
+b{
+    margin-left:30px;
+    
+}
+#kutija{
+    width:200px;
+    height:30px;
+    border-radius:7px;
+    padding-right:20px;
+    padding-left:30px;
+
+   
+}
+#slika{
+    margin-left:3px;
+    
+}
+input{
+    background-image:url("../slike/olovka.png");
+    background-repeat:no-repeat;
+    background-size:30px;
+}
+#desni{
+    width:45px;
+    height:35px;
+    background-color:green;
+    float:left;
+    margin-top:22px;
+    border-radius:10px;
+    padding:7px;
+}
