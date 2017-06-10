@@ -1,0 +1,35 @@
+#like
+{
+    margin: auto;
+    width: 450px;
+    height: 200px;
+    background-color: #62b7ef;
+    border-radius: 15px;
+}
+#slika
+{
+    width: 40%;
+    height: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+img
+{
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+}
+#text
+{
+    width: 60%;
+    height: 100%;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 60px;
+}
+h1
+{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
