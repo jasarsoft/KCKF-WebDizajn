@@ -1,0 +1,40 @@
+﻿body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: wheat;
+}
+
+#container
+{
+    width: 400px;
+    height: 350px;
+    margin: 20px auto;
+    background-color: aliceblue;
+}
+
+.imgTop
+{
+    width: 192.5px;
+    height: 180px;
+    float:left;
+    margin: 5px;
+    margin-left: 5px;
+    margin-right: 0px;
+    padding: 20px;
+    display: block;
+    box-sizing: border-box;
+    background-color: #00ADEF;
+}
+
+.imgBottom
+{
+    width: 390px;
+    height: 155px;
+    clear: left;
+    display: block;
+    margin: 5px;
+    padding: 20px 120px;
+    box-sizing: border-box;
+    background-color: #00ADEF;
+}
