@@ -1,0 +1,78 @@
+
+#main
+{
+    height: 300px;
+    width: 400px;
+    margin:auto;
+    /*background-color: gray;*/
+}
+
+#dio1
+{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    background-color: lightslategrey;
+}
+
+img{
+    width:80%;
+    height: 80px;   
+    border-radius: 40%;
+    margin: 0px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: gray;
+}
+
+#slika
+{
+    width: 30%;
+    height: 100%;
+    float: left;
+    /*background-color: green;*/
+}
+
+#header
+{
+    width: 70%;
+    height: 20px;
+    float:left;
+    margin: 0;
+}
+
+#vrijeme
+{
+    margin: 0;
+    margin-right: 10px;
+    text-align: right;
+    font-size: 15px;
+    width:100%;
+    height: 10px;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+#imeD
+{
+    margin:0;
+    float:left;
+    height: 30%;
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top:10px;
+}
+
+#porukaP
+{
+    margin:0;
+    font-size: 14px;
+}
+
+p{
+    margin:0;
+}
+
+#dio1:hover { 
+    background-color: dodgerblue;
+}

@@ -1,0 +1,40 @@
+.container {
+    height: 100px;
+    width: 300px;
+    background-color: darkgray;
+    box-sizing: border-box;
+    border-bottom: 1px solid white; 
+}
+.container:hover {background-color: lightskyblue;}
+.left {
+    width: 100px;
+    height: 100%;
+    box-sizing: border-box;
+    padding-top: 15px;
+    float: left;
+}
+img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    background-color: slategray;   
+}
+.center {
+    width: 130px;
+    height: 100%;
+    float: left;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+span {font-size: 22px; color:dimgray;}
+p {font-size: 18px; margin-top: 0; color:dimgray;}
+.right {
+    width: 70px;
+    height: 100%;
+    float: left;
+    text-align: right;
+    box-sizing: border-box;
+}
+h6{margin-top:0; font-size:14px; color:dimgray}
