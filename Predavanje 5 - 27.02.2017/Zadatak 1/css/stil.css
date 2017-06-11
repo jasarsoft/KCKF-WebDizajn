@@ -1,0 +1,39 @@
+#container{
+    width: 60%;
+    height: 350px;
+    background-color: gray;
+    margin: 0 auto;
+}
+
+#header{
+    width: 100%;
+    height: 70%;
+}
+
+#left{
+    width: 20%;
+    height: 70%; 
+    background-color: red;
+    float: left;
+}
+
+#middle{
+    width: 20%;
+    height: 70%;
+    background-color: blue;
+    float: left;
+}
+
+#footer{
+    width: 100%;
+    height: 30%;
+    background-color: yellow;
+    /*float: left;*/
+    /*clear: left;*/
+}
+
+#header::after{
+    content: "";
+    display: block;
+    clear: both;
+}

@@ -1,0 +1,38 @@
+#container{
+    width: 60%;
+    height: 450px;
+    margin: 0 auto;
+    background-color: lightgray;
+    color: white;
+}
+#header{
+    width: 100%;
+    height: 70%;
+}
+#left{
+    width: 50%;
+    height: 100%;
+    background-color: red;
+    float: left;
+    padding: 20px;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+#middle{
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+    float: left;
+}
+#footer{
+    width: 100%;
+    height: 30%;
+    background-color: yellow;
+}
+
+#header::after{
+    content: "";
+    display: block;
+    clear: both;
+}
