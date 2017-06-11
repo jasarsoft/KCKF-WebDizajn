@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>  
+        <title>DLWMS - Prijava</title>
+        <link rel="stylesheet" type="text/css" href="../css/stil.css"/>
+    </head>
+
+    <body bgcolor="#E7ECEE">
+        <div id="main">
+            <div id="header">
+                <img src="../slike/logo.png" id="dlwmsLogo" alt="dlwms"/>
+            </div> <!-- End of header -->
+
+            <div id="middle">
+                <div class="content"> 
+                    <p><strong>Studentski online servis</strong></p>
+                    <p>Unesite broj dosijea i lozinku za prijavu na sistem.</p>
+                    <p>
+                        U slučaju problema sa prijavom molimo kontaktirajte
+                        <a href="#">tehničku podršku.</a>
+                    </p>
+                </div> <!-- End of left -->
+
+                <div class="content">
+                    <label for="brDosijea">Broj dosijea</label><br>
+                    <input type="text" id="brDosijea" name="BrojDosijea">
+
+                    <br><br>
+
+                    <label for="lozinka">Lozinka</label><br>
+                    <input type="password" id="lozinka" name="Lozinka">
+
+                    <br><br>
+
+                    <label for="studij">Studij</label><br>
+                    <select name="Studij" id="studij">
+                        <option value="FIT">Fakultet Informacijskih Tehnologija</option>
+                        <option value="PI">Poslovna informatika</option>
+                    </select>
+
+                    <br><br>
+                    
+                    <div id="leftBottom">
+                        <input type="checkbox" id="zapamtiMe" name="ZapamtiMe">
+                        <label for="zapamtiMe">Zapamti me</label><br>
+                        <a href="index.html">Zaboravio/la sam lozinku</a>
+                    </div> <!-- End of leftBottom -->
+
+                    <div id="rightBottom">
+                        <input type="submit" id="prijava" value="Prijava">
+                    </div> <!-- End of rightBottom -->
+                </div> <!-- End of right -->
+            </div> <!-- End of middle -->
+
+            <div id="footer">
+
+            </div> <!-- End of footer -->
+        </div> <!-- End of main -->
+    </body>
+</html>

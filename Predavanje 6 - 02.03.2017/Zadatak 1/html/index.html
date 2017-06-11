@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>  
+
+<head>
+    <title>DLWNS - Prijava</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="../css/stil.css"/>
+    
+</head>
+
+<body>    
+    <div id="main">
+        <div id="header">
+            <img src="http://student.fit.ba/css/img/logo.png" id="dlwmsLogo" alt="dlwms" />
+        </div>
+
+        <div id="middle">
+            <div class="content">
+                <p><strong>Studentski online servis</strong></p>
+                <p>Unesite broj dosijea i lozinku za prijavu na sistem.</p>
+                <p>
+                    U slučaju problema sa prijavom molimo kontaktirajte 
+                    <a href="#">tehničku podršku</a>.
+                </p>
+            </div>
+            <div class="content">
+                <label for="brDosijea">Broj dosijea</label><br>
+                <input type="text" id="brDosijea" name="BrojDosijea"/>
+                <br><br>
+                <label for="lozinka">Lozinka</label><br>
+                <input type="password" id="lozinka" name="Lozinka"/>
+                <br><br>
+                <label for="studij">Studiji</label><br>
+                <select name="Studij" id="studij">
+                    <option value="FIT">Fakultet Informacijskih Tehnologija</option>
+                </select>
+                <br><br>
+                <div id="leftBottom">
+                    <input type="checkbox" id="zapamtiMe" name="ZapamtiMe"/>
+                    <label for="zapamtiMe">Zapamti me</label>
+                    <br>
+                    <a href="index.html">Zaboravio/la sam lozinku</a>
+                </div>
+                <div id="rightBottom">
+                    <input type="submit" id="prijava" value="Prijava"/>
+                </div>
+
+                
+            </div>
+        </div>
+
+        <div id="footer">
+        </div>
+    </div>
+</body>
+
+</html>
