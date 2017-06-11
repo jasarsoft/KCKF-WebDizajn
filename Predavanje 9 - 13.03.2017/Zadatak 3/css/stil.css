@@ -1,0 +1,45 @@
+#main
+{
+    width: 900px;
+    height: 655px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: #44b3c2; 
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+#slika
+{
+    width: 206px;
+    height: 206px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+    /*background-color: red;*/
+}
+
+h1
+{
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    /*padding-left: 42%;*/
+    display: block;
+}
+
+h4
+{
+    margin: 0;
+    text-align: center;
+    display: block;
+    font-size: 24px;
+}
+
+/*img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}*/

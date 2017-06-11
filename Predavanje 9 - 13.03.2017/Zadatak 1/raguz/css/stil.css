@@ -1,0 +1,77 @@
+.header {
+    width: 100%;
+}
+
+.left {
+    width: 20%;
+    float: left;
+    margin-right: 40px;
+}
+
+.left h1 {
+    color: #AC5091;
+    margin-left: 10px;
+    float: left;
+    margin-top: 0;
+    margin-right: 10px;
+    font-size: 24px;
+    margin-top: 5px;
+}
+
+#camera {
+    margin-top: 10px;
+}
+
+#right {
+    float: left;
+    margin-top: 10px;
+}
+
+.left p {
+    float: right;
+}
+
+.right {
+    float: left;
+    width: 50%;
+}
+
+.right p {
+    color: #999999;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.banner {
+    clear: both;
+    width: 50%;
+    margin-bottom: 100px;
+}
+
+.banner h2 {
+    width: 40%;
+    margin-left: 20px;
+    font-size: 28px;
+}
+
+.footer {
+    width: 27%;
+    float: left;
+}
+
+.footer p {
+    float: right;
+    color: #999999;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#before {
+    width: 84%;
+    float: left;
+}
+
+.footer img {
+    margin-top: 17px;
+}
