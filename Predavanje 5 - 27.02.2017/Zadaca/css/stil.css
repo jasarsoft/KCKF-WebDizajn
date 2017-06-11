@@ -1,0 +1,78 @@
+#container{
+    width: 60%;
+    height: 450px;
+    margin: 50px auto;
+    background-color: red;
+}
+
+#header{
+    width: 100%;
+    height: 75px;
+    background-color: #373B40;
+}
+
+#left{
+    width: 50%;
+    height: 300px;
+    float: left;
+    background-color: green;
+}
+
+#right{
+    width: 50%;
+    height: 300px;
+    float: left;
+    background-color: orangered;
+}
+
+#footer{
+    width: 100%;
+    height: 75px;
+    clear: both;
+    background-color: #373B40;
+}
+
+
+#logo{
+    display: block;
+    padding: 20px;
+}
+
+#footer h2{
+    /*display: block;*/
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+    font-size: 12px;
+    -webkit-text-fill-color: #f4f4f4;
+}
+
+#footer hr{
+    width: 95%;
+    background-color: #D0D9D6;
+}
+
+#copyright{
+    text-align: center;
+    font-size: 11px;
+}
+
+#labelTitle{
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#labelInfo{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+
+}
+
+#textUserName{
+    margin-left: 20px;
+}
+
+#textPassword{
+    margin-left: 20px;
+}
