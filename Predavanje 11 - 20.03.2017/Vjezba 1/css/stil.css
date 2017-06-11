@@ -1,0 +1,67 @@
+
+#main
+{
+    height: 200px;
+    width: 400px;
+    margin:auto;
+    background-color: grey;
+}
+
+#about
+{
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    padding-top: 15px;
+    border-bottom: 3px solid darkgrey;
+    box-sizing: border-box;
+    /*background-color: red;*/
+    background-image: url("../slike/about.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 95%;
+}
+#about h4
+{
+    margin: 0 15px;
+    /*padding-top: 15px;*/
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+#about:hover
+{
+    background-color: cadetblue;
+}
+
+#main span
+{
+    margin: 0 15px;
+    box-sizing: border-box;
+    padding-top: 50px;
+    /*box-sizing: border-box;*/
+    font-size: 16px;
+}
+
+
+#studie
+{
+    margin: 0;
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    border-bottom: 3px solid darkgrey;
+    padding-top: 15px;
+    padding-left: 10%;
+    /*background-color: green;*/
+    background-image: url("../slike/study.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    /*background-position-y: center;*/
+    background-position-x: 5%;
+}
+
+#studie:hover
+{
+    background-color: cadetblue;
+}

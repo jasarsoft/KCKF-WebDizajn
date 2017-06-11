@@ -1,0 +1,53 @@
+body {
+    margin: 50px auto;
+    font-family: "Courier New", Courier, monospace;
+    border: 1px solid black;
+    width: 75%;
+}
+
+.container {
+    margin: 1px;
+    width: 96%;
+    padding: 17px;
+    border: 1px solid black;
+}
+
+.container img {
+    margin: 20px auto;
+    display: block;
+}
+
+.list {
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+.list li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.list li a {
+    letter-spacing: 1px;
+    color: #000;
+    text-decoration: none;
+}
+
+.list li a:hover {
+    color: red;
+}
+
+.footer p {
+    text-align: center;
+    margin: 20px auto;
+    width: 90%;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.piano img {
+    width: 100%;
+}
