@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+
+}
+
+.logo{
+    padding: 15px 0;
+    float:left;
+}
+nav ul{
+    float: right;
+    margin-top: 10px;
+}
+nav ul li{
+    display: inline-block;
+    margin-top: 15px;
+}
+
+nav ul li a{
+    padding: 15px 40px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #00CED1;
+    color: #fff;
+}
+nav ul li a:hover{
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 45px;
+    transition: 0.5s;
+}
+
+.bb-image{
+    position: relative;
+    width:100%;
+    height: 600px;
+    background: url("http://www.slotrips.si/sis-mapa/skupina_doc/slo/galerija/1359639694_781_s_krvavec_skiing11.jpg") no-repeat;
+}
+.banner-info{
+   position: absolute;
+   top: 160px;
+   left: 23%;
+}
+.banner-info h1{
+    text-align: center;
+    color: #fff;
+    font-size: 44px;
+  
+}
+
+.btn{
+    margin-right: 30px;
+}
+.btns{
+    margin-top: 20px;
+}
+.btns .btn{
+    border-radius: 18px 0px 18px 0px;
+    padding: 13px 45px;
+}
+footer{
+    padding-top: 30px;
+}
+footer h1, p{
+    text-align: center;
+}
+.footer-area{
+    width: 960px;
+    margin: 60px auto;
+    text-align: center;
+}
+.footer-area img{
+    margin: 0 auto;
+    display: block;
+    padding: 15px;
+    border: 7px solid #DCDCDC;
+    border-radius: 50%;
+}
+.footer-area img:hover{
+    border: 7px solid #34d293;
+    transition: 0.3s;
+}
+.footer-area h5{
+    margin-top: 15px;
+    padding: 0 0 5px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid #34d293;
+}
+.footer-area p{
+    font-weight: normal;
+}
+.copyright{
+    width: 1100px;
+    margin: 20px auto;
+    padding: 20px 0 50px 0;
+    border-top: 1px solid lightgray;
+}
+.copyright p{
+    text-align: left;
+    float: left;
+}
+.copyright img{
+    padding: 0 15px;
+    float: right;
+}
